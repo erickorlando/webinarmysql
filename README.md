@@ -1,7 +1,6 @@
-##Webinar para la creacion de API REST con C# usando VSCode
+## Webinar para la creacion de API REST con C# usando VSCode
 
 #### Pasos para ejecutar este proyecto
-
 
 ## MySQL sobre Docker
 Tener instalado Docker Desktop y ejecutar el siguiente comando:
@@ -17,3 +16,5 @@ Ejecutar lo siguiente:
 `dotnet ef database update`
 
 ### Apoya el proyecto dandole una estrella ⭐
+
+Puedes ver la repetición del video en [YouTube.](https://youtu.be/HKornIXZALU)
